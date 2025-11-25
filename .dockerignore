@@ -1,0 +1,5 @@
+storage
+.git
+.gitignore
+*.log
+*.tmp
